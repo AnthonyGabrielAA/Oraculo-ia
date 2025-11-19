@@ -7,7 +7,7 @@ Projeto desenvolvido para demonstrar o consumo de APIs de IA Generativa, aplican
 
 ## 🚀 Tecnologias Utilizadas
 * **Python 3**
-* **Google Gemini API** (Model: gemini-1.5-flash-latest)
+* **Google Gemini API** (Model: gemini-2.0-flash)
 * **Python-dotenv** (Gerenciamento de variáveis de ambiente)
 
 ## 📦 Como rodar o projeto
