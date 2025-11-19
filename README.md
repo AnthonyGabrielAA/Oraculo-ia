@@ -1,18 +1,30 @@
-# 🔮 O Oráculo Sarcástico (Gemini AI)
+# 🔮 O Oráculo Sarcástico (Powered by Google Gemini)
 
-Este projeto é uma aplicação simples que utiliza a Inteligência Artificial do Google (Gemini) para responder perguntas de forma humorada e sarcástica, simulando um "sábio sem paciência".
+Bem-vindo ao **Oráculo Sarcástico**! Este é um projeto Python que integra a API de Inteligência Artificial do Google (Gemini) para criar um assistente virtual com uma personalidade única: ele é sábio, antigo e **completamente sem paciência** para perguntas óbvias.
 
-## 🎯 Objetivo
-Projeto desenvolvido para demonstrar o consumo de APIs de IA Generativa, aplicando boas práticas de segurança (ocultação de chaves de API) e versionamento de código com Git.
+---
+
+## 📋 Pré-requisitos
+Antes de começar, certifique-se de ter instalado no seu computador:
+* [Python 3.x](https://www.python.org/downloads/) (Com a opção "Add Python to PATH" marcada)
+* [Git](https://git-scm.com/downloads)
+* Uma conta no Google para gerar a [API Key do Gemini](https://aistudio.google.com/).
+
+---
 
 ## 🚀 Tecnologias Utilizadas
-* **Python 3**
-* **Google Gemini API** (Model: gemini-2.0-flash)
-* **Python-dotenv** (Gerenciamento de variáveis de ambiente)
+* **Linguagem:** Python 3
+* **IA:** Google Gemini API (Modelo: `gemini-2.0-flash`)
+* **Segurança:** Python-dotenv (Gerenciamento de variáveis de ambiente)
 
-## 📦 Como rodar o projeto
+---
+
+## ⚙️ Instalação Passo a Passo
+
+Siga estes passos no seu terminal para rodar o projeto:
 
 ### 1. Clone o repositório
+Baixe o código para sua máquina:
 ```bash
 git clone [https://github.com/AnthonyGabrielAA/Oraculo-ia.git](https://github.com/AnthonyGabrielAA/oraculo-ia.git)
 cd oraculo-ia
